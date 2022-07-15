@@ -305,7 +305,7 @@ function set_color() {
 }
 
 // GET JSON file
-d3.json('data.json').then(
+d3.json('app/data.json').then(
     function (chapters) {
         l = []
         for (const c in chapters) {
