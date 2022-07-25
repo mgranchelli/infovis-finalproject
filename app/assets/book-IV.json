@@ -1,0 +1,123 @@
+[
+    {
+        "chapter": 1,
+        "Ciri": 1,
+        "Emhyr": 1,
+        "Kelpie": 1,
+        "Yennefer": 1,
+        "Vysogota": 1,
+        "Dandelion": 0,
+        "Geralt": 0,
+        "Vilgefortz": 0
+    },
+    {
+        "chapter": 2,
+        "Ciri": 1,
+        "Emhyr": 1,
+        "Kelpie": 1,
+        "Yennefer": 1,
+        "Vysogota": 1,
+        "Dandelion": 1,
+        "Geralt": 0,
+        "Vilgefortz": 0
+    },
+    {
+        "chapter": 3,
+        "Ciri": 1,
+        "Emhyr": 1,
+        "Kelpie": 1,
+        "Yennefer": 1,
+        "Vysogota": 0,
+        "Dandelion": 1,
+        "Geralt": 1,
+        "Vilgefortz": 1
+    },
+    {
+        "chapter": 4,
+        "Ciri": 1,
+        "Emhyr": 1,
+        "Kelpie": 1,
+        "Yennefer": 0,
+        "Vysogota": 1,
+        "Dandelion": 0,
+        "Geralt": 0,
+        "Vilgefortz": 0
+    },
+    {
+        "chapter": 5,
+        "Ciri": 1,
+        "Emhyr": 1,
+        "Kelpie": 0,
+        "Yennefer": 1,
+        "Vysogota": 1,
+        "Dandelion": 1,
+        "Geralt": 1,
+        "Vilgefortz": 0
+    },
+    {
+        "chapter": 6,
+        "Ciri": 1,
+        "Emhyr": 1,
+        "Kelpie": 0,
+        "Yennefer": 0,
+        "Vysogota": 0,
+        "Dandelion": 1,
+        "Geralt": 1,
+        "Vilgefortz": 1
+    },
+    {
+        "chapter": 7,
+        "Ciri": 1,
+        "Emhyr": 1,
+        "Kelpie": 0,
+        "Yennefer": 1,
+        "Vysogota": 0,
+        "Dandelion": 1,
+        "Geralt": 1,
+        "Vilgefortz": 1
+    },
+    {
+        "chapter": 8,
+        "Ciri": 1,
+        "Emhyr": 1,
+        "Kelpie": 0,
+        "Yennefer": 1,
+        "Vysogota": 1,
+        "Dandelion": 0,
+        "Geralt": 0,
+        "Vilgefortz": 1
+    },
+    {
+        "chapter": 9,
+        "Ciri": 1,
+        "Emhyr": 1,
+        "Kelpie": 1,
+        "Yennefer": 1,
+        "Vysogota": 1,
+        "Dandelion": 1,
+        "Geralt": 1,
+        "Vilgefortz": 1
+    },
+    {
+        "chapter": 10,
+        "Ciri": 1,
+        "Emhyr": 1,
+        "Kelpie": 1,
+        "Yennefer": 1,
+        "Vysogota": 1,
+        "Dandelion": 0,
+        "Geralt": 0,
+        "Vilgefortz": 1
+    },
+    {
+        "chapter": 11,
+        "Ciri": 1,
+        "Emhyr": 1,
+        "Kelpie": 1,
+        "Yennefer": 1,
+        "Vysogota": 1,
+        "Dandelion": 1,
+        "Geralt": 1,
+        "Vilgefortz": 1
+    }
+]
