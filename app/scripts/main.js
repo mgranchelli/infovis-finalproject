@@ -114,8 +114,6 @@ const doNotHighlight = function (event, d) {
 
 function add_last_points() {
     // Add two last points
-    y_point = data_line[0][2].y - 10
-    // last_y = y_point + 10
     y = start_path_y
     y_start_points = []
     for (const d in data_line) {
@@ -138,8 +136,8 @@ function add_last_points() {
     }
 
     for (const d in data_line) {
-        data_line[d].push({ 'x': data_line[d][data_line[d].length - 1].x + xScale(100), 'y': sortable[data_line[d][0].character] })
-        data_line[d].push({ 'x': data_line[d][data_line[d].length - 2].x + xScale(100), 'y': sortable[data_line[d][0].character] - 10 })
+        data_line[d].push({ 'x': data_line[d][data_line[d].length - 1].x + xScale(100), 'y': sortable[data_line[d][0].character] + 10 })
+        data_line[d].push({ 'x': data_line[d][data_line[d].length - 2].x + xScale(100), 'y': sortable[data_line[d][0].character] })
     }
 }
 
